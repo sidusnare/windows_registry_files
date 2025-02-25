@@ -1,4 +1,4 @@
-# Windows egistry files
+# Windows registry files
 
 Useful registry files
 
